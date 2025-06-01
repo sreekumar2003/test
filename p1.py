@@ -1,4 +1,4 @@
 a = int(input("Enter the number"));
 b = int(input("Enter the number"));
 c = a + b
-print(c)
+print(f"Sum of two numbers is{c}")
